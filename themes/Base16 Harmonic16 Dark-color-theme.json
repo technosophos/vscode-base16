@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-harmonic16-dark.tmTheme",
+  "colors": {
+    "editor.background": "#0b1c2c",
+    "editorCursor.foreground": "#cbd6e2",
+    "editor.foreground": "#cbd6e2",
+    "editorWhitespace.foreground": "#627e99",
+    "editor.lineHighlightBackground": "#627e9955",
+    "editor.selectionBackground": "#405c79"
+  }
+}

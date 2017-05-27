@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-isotope.tmTheme",
+  "colors": {
+    "editor.background": "#000000",
+    "editorCursor.foreground": "#d0d0d0",
+    "editor.foreground": "#d0d0d0",
+    "editorWhitespace.foreground": "#808080",
+    "editor.lineHighlightBackground": "#80808055",
+    "editor.selectionBackground": "#606060"
+  }
+}

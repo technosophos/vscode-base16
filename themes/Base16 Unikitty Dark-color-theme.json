@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-unikitty-dark.tmTheme",
+  "colors": {
+    "editor.background": "#2e2a31",
+    "editorCursor.foreground": "#bcbabe",
+    "editor.foreground": "#bcbabe",
+    "editorWhitespace.foreground": "#838085",
+    "editor.lineHighlightBackground": "#83808555",
+    "editor.selectionBackground": "#666369"
+  }
+}

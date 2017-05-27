@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-chalk.tmTheme",
+  "colors": {
+    "editor.background": "#151515",
+    "editorCursor.foreground": "#d0d0d0",
+    "editor.foreground": "#d0d0d0",
+    "editorWhitespace.foreground": "#505050",
+    "editor.lineHighlightBackground": "#50505055",
+    "editor.selectionBackground": "#303030"
+  }
+}

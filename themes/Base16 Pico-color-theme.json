@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-pico.tmTheme",
+  "colors": {
+    "editor.background": "#000000",
+    "editorCursor.foreground": "#5f574f",
+    "editor.foreground": "#5f574f",
+    "editorWhitespace.foreground": "#008751",
+    "editor.lineHighlightBackground": "#00875155",
+    "editor.selectionBackground": "#7e2553"
+  }
+}

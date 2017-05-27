@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-hopscotch.tmTheme",
+  "colors": {
+    "editor.background": "#322931",
+    "editorCursor.foreground": "#b9b5b8",
+    "editor.foreground": "#b9b5b8",
+    "editorWhitespace.foreground": "#797379",
+    "editor.lineHighlightBackground": "#79737955",
+    "editor.selectionBackground": "#5c545b"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-phd.tmTheme",
+  "colors": {
+    "editor.background": "#061229",
+    "editorCursor.foreground": "#b8bbc2",
+    "editor.foreground": "#b8bbc2",
+    "editorWhitespace.foreground": "#717885",
+    "editor.lineHighlightBackground": "#71788555",
+    "editor.selectionBackground": "#4d5666"
+  }
+}

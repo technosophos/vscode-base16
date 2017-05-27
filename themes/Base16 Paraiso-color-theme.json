@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-paraiso.tmTheme",
+  "colors": {
+    "editor.background": "#2f1e2e",
+    "editorCursor.foreground": "#a39e9b",
+    "editor.foreground": "#a39e9b",
+    "editorWhitespace.foreground": "#776e71",
+    "editor.lineHighlightBackground": "#776e7155",
+    "editor.selectionBackground": "#4f424c"
+  }
+}

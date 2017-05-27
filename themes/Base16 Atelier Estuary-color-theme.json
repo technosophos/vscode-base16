@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-estuary.tmTheme",
+  "colors": {
+    "editor.background": "#22221b",
+    "editorCursor.foreground": "#929181",
+    "editor.foreground": "#929181",
+    "editorWhitespace.foreground": "#6c6b5a",
+    "editor.lineHighlightBackground": "#6c6b5a55",
+    "editor.selectionBackground": "#5f5e4e"
+  }
+}

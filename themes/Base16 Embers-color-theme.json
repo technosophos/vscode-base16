@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-embers.tmTheme",
+  "colors": {
+    "editor.background": "#16130F",
+    "editorCursor.foreground": "#A39A90",
+    "editor.foreground": "#A39A90",
+    "editorWhitespace.foreground": "#5A5047",
+    "editor.lineHighlightBackground": "#5A504755",
+    "editor.selectionBackground": "#433B32"
+  }
+}

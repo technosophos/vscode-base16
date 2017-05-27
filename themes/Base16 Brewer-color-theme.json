@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-brewer.tmTheme",
+  "colors": {
+    "editor.background": "#0c0d0e",
+    "editorCursor.foreground": "#b7b8b9",
+    "editor.foreground": "#b7b8b9",
+    "editorWhitespace.foreground": "#737475",
+    "editor.lineHighlightBackground": "#73747555",
+    "editor.selectionBackground": "#515253"
+  }
+}

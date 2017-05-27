@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-woodland.tmTheme",
+  "colors": {
+    "editor.background": "#231e18",
+    "editorCursor.foreground": "#cabcb1",
+    "editor.foreground": "#cabcb1",
+    "editorWhitespace.foreground": "#9d8b70",
+    "editor.lineHighlightBackground": "#9d8b7055",
+    "editor.selectionBackground": "#48413a"
+  }
+}

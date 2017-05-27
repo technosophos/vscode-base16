@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-github.tmTheme",
+  "colors": {
+    "editor.background": "#ffffff",
+    "editorCursor.foreground": "#333333",
+    "editor.foreground": "#333333",
+    "editorWhitespace.foreground": "#969896",
+    "editor.lineHighlightBackground": "#96989655",
+    "editor.selectionBackground": "#c8c8fa"
+  }
+}

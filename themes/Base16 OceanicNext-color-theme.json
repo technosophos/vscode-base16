@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-oceanicnext.tmTheme",
+  "colors": {
+    "editor.background": "#1B2B34",
+    "editorCursor.foreground": "#C0C5CE",
+    "editor.foreground": "#C0C5CE",
+    "editorWhitespace.foreground": "#65737E",
+    "editor.lineHighlightBackground": "#65737E55",
+    "editor.selectionBackground": "#4F5B66"
+  }
+}

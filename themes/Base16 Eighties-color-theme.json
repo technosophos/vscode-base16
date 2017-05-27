@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-eighties.tmTheme",
+  "colors": {
+    "editor.background": "#2d2d2d",
+    "editorCursor.foreground": "#d3d0c8",
+    "editor.foreground": "#d3d0c8",
+    "editorWhitespace.foreground": "#747369",
+    "editor.lineHighlightBackground": "#74736955",
+    "editor.selectionBackground": "#515151"
+  }
+}

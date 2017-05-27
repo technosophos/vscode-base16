@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-dune.tmTheme",
+  "colors": {
+    "editor.background": "#20201d",
+    "editorCursor.foreground": "#a6a28c",
+    "editor.foreground": "#a6a28c",
+    "editorWhitespace.foreground": "#7d7a68",
+    "editor.lineHighlightBackground": "#7d7a6855",
+    "editor.selectionBackground": "#6e6b5e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-apathy.tmTheme",
+  "colors": {
+    "editor.background": "#031A16",
+    "editorCursor.foreground": "#81B5AC",
+    "editor.foreground": "#81B5AC",
+    "editorWhitespace.foreground": "#2B685E",
+    "editor.lineHighlightBackground": "#2B685E55",
+    "editor.selectionBackground": "#184E45"
+  }
+}

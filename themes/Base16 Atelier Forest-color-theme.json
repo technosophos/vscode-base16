@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-forest.tmTheme",
+  "colors": {
+    "editor.background": "#1b1918",
+    "editorCursor.foreground": "#a8a19f",
+    "editor.foreground": "#a8a19f",
+    "editorWhitespace.foreground": "#766e6b",
+    "editor.lineHighlightBackground": "#766e6b55",
+    "editor.selectionBackground": "#68615e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-cupcake.tmTheme",
+  "colors": {
+    "editor.background": "#fbf1f2",
+    "editorCursor.foreground": "#8b8198",
+    "editor.foreground": "#8b8198",
+    "editorWhitespace.foreground": "#bfb9c6",
+    "editor.lineHighlightBackground": "#bfb9c655",
+    "editor.selectionBackground": "#d8d5dd"
+  }
+}

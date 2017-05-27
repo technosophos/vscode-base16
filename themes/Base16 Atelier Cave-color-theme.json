@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-cave.tmTheme",
+  "colors": {
+    "editor.background": "#19171c",
+    "editorCursor.foreground": "#8b8792",
+    "editor.foreground": "#8b8792",
+    "editorWhitespace.foreground": "#655f6d",
+    "editor.lineHighlightBackground": "#655f6d55",
+    "editor.selectionBackground": "#585260"
+  }
+}

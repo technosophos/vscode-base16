@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-savanna.tmTheme",
+  "colors": {
+    "editor.background": "#171c19",
+    "editorCursor.foreground": "#87928a",
+    "editor.foreground": "#87928a",
+    "editorWhitespace.foreground": "#5f6d64",
+    "editor.lineHighlightBackground": "#5f6d6455",
+    "editor.selectionBackground": "#526057"
+  }
+}

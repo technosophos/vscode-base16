@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-seti-ui.tmTheme",
+  "colors": {
+    "editor.background": "#151718",
+    "editorCursor.foreground": "#d6d6d6",
+    "editor.foreground": "#d6d6d6",
+    "editorWhitespace.foreground": "#41535B",
+    "editor.lineHighlightBackground": "#41535B55",
+    "editor.selectionBackground": "#3B758C"
+  }
+}

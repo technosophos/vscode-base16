@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-sulphurpool.tmTheme",
+  "colors": {
+    "editor.background": "#202746",
+    "editorCursor.foreground": "#979db4",
+    "editor.foreground": "#979db4",
+    "editorWhitespace.foreground": "#6b7394",
+    "editor.lineHighlightBackground": "#6b739455",
+    "editor.selectionBackground": "#5e6687"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-dracula.tmTheme",
+  "colors": {
+    "editor.background": "#282936",
+    "editorCursor.foreground": "#e9e9f4",
+    "editor.foreground": "#e9e9f4",
+    "editorWhitespace.foreground": "#626483",
+    "editor.lineHighlightBackground": "#62648355",
+    "editor.selectionBackground": "#4d4f68"
+  }
+}

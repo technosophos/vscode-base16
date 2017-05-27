@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-solar-flare.tmTheme",
+  "colors": {
+    "editor.background": "#18262F",
+    "editorCursor.foreground": "#A6AFB8",
+    "editor.foreground": "#A6AFB8",
+    "editorWhitespace.foreground": "#667581",
+    "editor.lineHighlightBackground": "#66758155",
+    "editor.selectionBackground": "#586875"
+  }
+}

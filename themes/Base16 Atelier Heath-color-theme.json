@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-heath.tmTheme",
+  "colors": {
+    "editor.background": "#1b181b",
+    "editorCursor.foreground": "#ab9bab",
+    "editor.foreground": "#ab9bab",
+    "editorWhitespace.foreground": "#776977",
+    "editor.lineHighlightBackground": "#77697755",
+    "editor.selectionBackground": "#695d69"
+  }
+}

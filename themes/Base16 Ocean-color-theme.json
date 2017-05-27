@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-ocean.tmTheme",
+  "colors": {
+    "editor.background": "#2b303b",
+    "editorCursor.foreground": "#c0c5ce",
+    "editor.foreground": "#c0c5ce",
+    "editorWhitespace.foreground": "#65737e",
+    "editor.lineHighlightBackground": "#65737e55",
+    "editor.selectionBackground": "#4f5b66"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-marrakesh.tmTheme",
+  "colors": {
+    "editor.background": "#201602",
+    "editorCursor.foreground": "#948e48",
+    "editor.foreground": "#948e48",
+    "editorWhitespace.foreground": "#6c6823",
+    "editor.lineHighlightBackground": "#6c682355",
+    "editor.selectionBackground": "#5f5b17"
+  }
+}

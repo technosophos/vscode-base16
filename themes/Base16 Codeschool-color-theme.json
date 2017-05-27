@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-codeschool.tmTheme",
+  "colors": {
+    "editor.background": "#232c31",
+    "editorCursor.foreground": "#9ea7a6",
+    "editor.foreground": "#9ea7a6",
+    "editorWhitespace.foreground": "#3f4944",
+    "editor.lineHighlightBackground": "#3f494455",
+    "editor.selectionBackground": "#2a343a"
+  }
+}

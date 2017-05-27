@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-seaside.tmTheme",
+  "colors": {
+    "editor.background": "#131513",
+    "editorCursor.foreground": "#8ca68c",
+    "editor.foreground": "#8ca68c",
+    "editorWhitespace.foreground": "#687d68",
+    "editor.lineHighlightBackground": "#687d6855",
+    "editor.selectionBackground": "#5e6e5e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-materia.tmTheme",
+  "colors": {
+    "editor.background": "#263238",
+    "editorCursor.foreground": "#CDD3DE",
+    "editor.foreground": "#CDD3DE",
+    "editorWhitespace.foreground": "#707880",
+    "editor.lineHighlightBackground": "#70788055",
+    "editor.selectionBackground": "#37474F"
+  }
+}

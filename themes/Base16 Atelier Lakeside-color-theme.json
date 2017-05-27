@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-lakeside.tmTheme",
+  "colors": {
+    "editor.background": "#161b1d",
+    "editorCursor.foreground": "#7ea2b4",
+    "editor.foreground": "#7ea2b4",
+    "editorWhitespace.foreground": "#5a7b8c",
+    "editor.lineHighlightBackground": "#5a7b8c55",
+    "editor.selectionBackground": "#516d7b"
+  }
+}

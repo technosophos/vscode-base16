@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-macintosh.tmTheme",
+  "colors": {
+    "editor.background": "#000000",
+    "editorCursor.foreground": "#c0c0c0",
+    "editor.foreground": "#c0c0c0",
+    "editorWhitespace.foreground": "#808080",
+    "editor.lineHighlightBackground": "#80808055",
+    "editor.selectionBackground": "#404040"
+  }
+}

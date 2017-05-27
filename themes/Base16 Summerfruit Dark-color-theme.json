@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-summerfruit-dark.tmTheme",
+  "colors": {
+    "editor.background": "#151515",
+    "editorCursor.foreground": "#D0D0D0",
+    "editor.foreground": "#D0D0D0",
+    "editorWhitespace.foreground": "#505050",
+    "editor.lineHighlightBackground": "#50505055",
+    "editor.selectionBackground": "#303030"
+  }
+}

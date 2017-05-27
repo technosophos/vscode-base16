@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-solarized-light.tmTheme",
+  "colors": {
+    "editor.background": "#fdf6e3",
+    "editorCursor.foreground": "#586e75",
+    "editor.foreground": "#586e75",
+    "editorWhitespace.foreground": "#839496",
+    "editor.lineHighlightBackground": "#83949655",
+    "editor.selectionBackground": "#93a1a1"
+  }
+}

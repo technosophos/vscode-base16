@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-monokai.tmTheme",
+  "colors": {
+    "editor.background": "#272822",
+    "editorCursor.foreground": "#f8f8f2",
+    "editor.foreground": "#f8f8f2",
+    "editorWhitespace.foreground": "#75715e",
+    "editor.lineHighlightBackground": "#75715e55",
+    "editor.selectionBackground": "#49483e"
+  }
+}

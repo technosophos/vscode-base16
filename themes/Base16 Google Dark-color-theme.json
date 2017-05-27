@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-google-dark.tmTheme",
+  "colors": {
+    "editor.background": "#1d1f21",
+    "editorCursor.foreground": "#c5c8c6",
+    "editor.foreground": "#c5c8c6",
+    "editorWhitespace.foreground": "#969896",
+    "editor.lineHighlightBackground": "#96989655",
+    "editor.selectionBackground": "#373b41"
+  }
+}

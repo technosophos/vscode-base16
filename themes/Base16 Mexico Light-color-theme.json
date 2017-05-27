@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-mexico-light.tmTheme",
+  "colors": {
+    "editor.background": "#f8f8f8",
+    "editorCursor.foreground": "#383838",
+    "editor.foreground": "#383838",
+    "editorWhitespace.foreground": "#b8b8b8",
+    "editor.lineHighlightBackground": "#b8b8b855",
+    "editor.selectionBackground": "#d8d8d8"
+  }
+}

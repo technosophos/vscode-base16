@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-atelier-plateau.tmTheme",
+  "colors": {
+    "editor.background": "#1b1818",
+    "editorCursor.foreground": "#8a8585",
+    "editor.foreground": "#8a8585",
+    "editorWhitespace.foreground": "#655d5d",
+    "editor.lineHighlightBackground": "#655d5d55",
+    "editor.selectionBackground": "#585050"
+  }
+}

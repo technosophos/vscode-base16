@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-twilight.tmTheme",
+  "colors": {
+    "editor.background": "#1e1e1e",
+    "editorCursor.foreground": "#a7a7a7",
+    "editor.foreground": "#a7a7a7",
+    "editorWhitespace.foreground": "#5f5a60",
+    "editor.lineHighlightBackground": "#5f5a6055",
+    "editor.selectionBackground": "#464b50"
+  }
+}

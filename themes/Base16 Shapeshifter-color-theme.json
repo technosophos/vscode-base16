@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-shapeshifter.tmTheme",
+  "colors": {
+    "editor.background": "#f9f9f9",
+    "editorCursor.foreground": "#102015",
+    "editor.foreground": "#102015",
+    "editorWhitespace.foreground": "#555555",
+    "editor.lineHighlightBackground": "#55555555",
+    "editor.selectionBackground": "#ababab"
+  }
+}

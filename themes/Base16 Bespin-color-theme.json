@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-bespin.tmTheme",
+  "colors": {
+    "editor.background": "#28211c",
+    "editorCursor.foreground": "#8a8986",
+    "editor.foreground": "#8a8986",
+    "editorWhitespace.foreground": "#666666",
+    "editor.lineHighlightBackground": "#66666655",
+    "editor.selectionBackground": "#5e5d5c"
+  }
+}

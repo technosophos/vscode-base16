@@ -1,0 +1,11 @@
+{
+  "tokenColors": "./base16-london-tube.tmTheme",
+  "colors": {
+    "editor.background": "#231f20",
+    "editorCursor.foreground": "#d9d8d8",
+    "editor.foreground": "#d9d8d8",
+    "editorWhitespace.foreground": "#737171",
+    "editor.lineHighlightBackground": "#73717155",
+    "editor.selectionBackground": "#5a5758"
+  }
+}
