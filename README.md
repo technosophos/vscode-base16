@@ -1,8 +1,8 @@
 # Base16 Theme Pack
 
-Because what you really need is 60+ hacker-oriented colorschmes from which to choose.
+Because what you really need is 60+ hacker-oriented color schemes from which to choose.
 
-[Base16](http://chriskempson.com/projects/base16/) is a set of colorschemes that can be shared across multiple tools, from VIM and Emacs to your command prompt or shell.
+[Base16](http://chriskempson.com/projects/base16/) is a set of themes that can be shared across multiple tools, from VIM and Emacs to your command prompt or shell.
 
 ![Sample Color Schemes](composite.png)
 
