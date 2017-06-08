@@ -6,7 +6,11 @@ Because what you really need is 60+ hacker-oriented color schemes from which to 
 
 ![Sample Color Schemes](composite.png)
 
+Preview all of the themes at the [base16 theme site](http://chriskempson.github.io/base16/)
+
 This extension contains 60+ of the base16 themes. It provides VS Code wrappers for the [TextMate version](https://github.com/chriskempson/base16-textmate) of the Base16 themes.
+
+**Other Base16 Themes**: This may not be the VS Code Base16 port for you. If you want just one or two of the themes, you may want to just seach the [marketplace](https://marketplace.visualstudio.com/search?term=base16&target=VSCode&category=All%20categories&sortBy=Relevance) for the one(s) you want. There is also another pack of base16 themes that appears to contain [most of the themes](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes). I didn't find that one until after creating this one, and am not sure of the details.
 
 ## Customizing (Disabling Themes)
 
