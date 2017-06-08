@@ -2,7 +2,7 @@
     "name": "base16",
     "displayName": "Base16 color schemes",
     "description": "60+ Base16 color schemes. Base16 is a currated list of colorschemes.",
-    "version": "0.1.1",
+    "version": "0.1.3",
     "publisher": "technosophos",
     "license": "MIT",
     "icon": "logo.png",
@@ -15,400 +15,335 @@
     ],
     "contributes": {
         "themes": [
-        {
-            "label": "Base16 3024",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 3024-color-theme.json"
+            {
+                "label": "Base16 3024",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 3024-color-theme.json"
             },
-
             {
-            "label": "Base16 Apathy",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Apathy-color-theme.json"
+                "label": "Base16 Apathy",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Apathy-color-theme.json"
             },
-
             {
-            "label": "Base16 Ashes",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Ashes-color-theme.json"
+                "label": "Base16 Ashes",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Ashes-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Cave",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Cave-color-theme.json"
+                "label": "Base16 Atelier Cave",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Cave-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Dune",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Dune-color-theme.json"
+                "label": "Base16 Atelier Dune",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Dune-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Estuary",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Estuary-color-theme.json"
+                "label": "Base16 Atelier Estuary",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Estuary-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Forest",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Forest-color-theme.json"
+                "label": "Base16 Atelier Forest",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Forest-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Heath",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Heath-color-theme.json"
+                "label": "Base16 Atelier Heath",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Heath-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Lakeside",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Lakeside-color-theme.json"
+                "label": "Base16 Atelier Lakeside",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Lakeside-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Plateau",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Plateau-color-theme.json"
+                "label": "Base16 Atelier Plateau",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Plateau-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Savanna",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Savanna-color-theme.json"
+                "label": "Base16 Atelier Savanna",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Savanna-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Seaside",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Seaside-color-theme.json"
+                "label": "Base16 Atelier Seaside",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Seaside-color-theme.json"
             },
-
             {
-            "label": "Base16 Atelier Sulphurpool",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Atelier Sulphurpool-color-theme.json"
+                "label": "Base16 Atelier Sulphurpool",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Atelier Sulphurpool-color-theme.json"
             },
-
             {
-            "label": "Base16 Bespin",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Bespin-color-theme.json"
+                "label": "Base16 Bespin",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Bespin-color-theme.json"
             },
-
             {
-            "label": "Base16 Brewer",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Brewer-color-theme.json"
+                "label": "Base16 Brewer",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Brewer-color-theme.json"
             },
-
             {
-            "label": "Base16 Bright",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Bright-color-theme.json"
+                "label": "Base16 Bright",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Bright-color-theme.json"
             },
-
             {
-            "label": "Base16 Chalk",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Chalk-color-theme.json"
+                "label": "Base16 Chalk",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Chalk-color-theme.json"
             },
-
             {
-            "label": "Base16 Codeschool",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Codeschool-color-theme.json"
+                "label": "Base16 Codeschool",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Codeschool-color-theme.json"
             },
-
             {
-            "label": "Base16 Cupcake",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Cupcake-color-theme.json"
+                "label": "Base16 Cupcake",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Cupcake-color-theme.json"
             },
-
             {
-            "label": "Base16 Darktooth",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Darktooth-color-theme.json"
+                "label": "Base16 Darktooth",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Darktooth-color-theme.json"
             },
-
             {
-            "label": "Base16 Default Dark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Default Dark-color-theme.json"
+                "label": "Base16 Default Dark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Default Dark-color-theme.json"
             },
-
             {
-            "label": "Base16 Default Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Default Light-color-theme.json"
+                "label": "Base16 Default Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Default Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Dracula",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Dracula-color-theme.json"
+                "label": "Base16 Dracula",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Dracula-color-theme.json"
             },
-
             {
-            "label": "Base16 Eighties",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Eighties-color-theme.json"
+                "label": "Base16 Eighties",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Eighties-color-theme.json"
             },
-
             {
-            "label": "Base16 Embers",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Embers-color-theme.json"
+                "label": "Base16 Embers",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Embers-color-theme.json"
             },
-
             {
-            "label": "Base16 Flat",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Flat-color-theme.json"
+                "label": "Base16 Flat",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Flat-color-theme.json"
             },
-
             {
-            "label": "Base16 Github",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Github-color-theme.json"
+                "label": "Base16 Github",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Github-color-theme.json"
             },
-
             {
-            "label": "Base16 Google Dark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Google Dark-color-theme.json"
+                "label": "Base16 Google Dark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Google Dark-color-theme.json"
             },
-
             {
-            "label": "Base16 Google Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Google Light-color-theme.json"
+                "label": "Base16 Google Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Google Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Grayscale Dark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Grayscale Dark-color-theme.json"
+                "label": "Base16 Grayscale Dark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Grayscale Dark-color-theme.json"
             },
-
             {
-            "label": "Base16 Grayscale Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Grayscale Light-color-theme.json"
+                "label": "Base16 Grayscale Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Grayscale Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Green Screen",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Green Screen-color-theme.json"
+                "label": "Base16 Green Screen",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Green Screen-color-theme.json"
             },
-
             {
-            "label": "Base16 Harmonic16 Dark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Harmonic16 Dark-color-theme.json"
+                "label": "Base16 Harmonic16 Dark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Harmonic16 Dark-color-theme.json"
             },
-
             {
-            "label": "Base16 Harmonic16 Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Harmonic16 Light-color-theme.json"
+                "label": "Base16 Harmonic16 Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Harmonic16 Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Hopscotch",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Hopscotch-color-theme.json"
+                "label": "Base16 Hopscotch",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Hopscotch-color-theme.json"
             },
-
             {
-            "label": "Base16 IR Black",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 IR Black-color-theme.json"
+                "label": "Base16 IR Black",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 IR Black-color-theme.json"
             },
-
             {
-            "label": "Base16 Isotope",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Isotope-color-theme.json"
+                "label": "Base16 Isotope",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Isotope-color-theme.json"
             },
-
             {
-            "label": "Base16 London Tube",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 London Tube-color-theme.json"
+                "label": "Base16 London Tube",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 London Tube-color-theme.json"
             },
-
             {
-            "label": "Base16 Macintosh",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Macintosh-color-theme.json"
+                "label": "Base16 Macintosh",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Macintosh-color-theme.json"
             },
-
             {
-            "label": "Base16 Marrakesh",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Marrakesh-color-theme.json"
+                "label": "Base16 Marrakesh",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Marrakesh-color-theme.json"
             },
-
             {
-            "label": "Base16 Materia",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Materia-color-theme.json"
+                "label": "Base16 Materia",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Materia-color-theme.json"
             },
-
             {
-            "label": "Base16 Mexico Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Mexico Light-color-theme.json"
+                "label": "Base16 Mexico Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Mexico Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Mocha",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Mocha-color-theme.json"
+                "label": "Base16 Mocha",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Mocha-color-theme.json"
             },
-
             {
-            "label": "Base16 Monokai",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Monokai-color-theme.json"
+                "label": "Base16 Monokai",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Monokai-color-theme.json"
             },
-
             {
-            "label": "Base16 Ocean",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Ocean-color-theme.json"
+                "label": "Base16 Ocean",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Ocean-color-theme.json"
             },
-
             {
-            "label": "Base16 OceanicNext",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 OceanicNext-color-theme.json"
+                "label": "Base16 OceanicNext",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 OceanicNext-color-theme.json"
             },
-
             {
-            "label": "Base16 OneDark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 OneDark-color-theme.json"
+                "label": "Base16 OneDark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 OneDark-color-theme.json"
             },
-
             {
-            "label": "Base16 Paraiso",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Paraiso-color-theme.json"
+                "label": "Base16 Paraiso",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Paraiso-color-theme.json"
             },
-
             {
-            "label": "Base16 PhD",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 PhD-color-theme.json"
+                "label": "Base16 PhD",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 PhD-color-theme.json"
             },
-
             {
-            "label": "Base16 Pico",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Pico-color-theme.json"
+                "label": "Base16 Pico",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Pico-color-theme.json"
             },
-
             {
-            "label": "Base16 Pop",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Pop-color-theme.json"
+                "label": "Base16 Pop",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Pop-color-theme.json"
             },
-
             {
-            "label": "Base16 Railscasts",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Railscasts-color-theme.json"
+                "label": "Base16 Railscasts",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Railscasts-color-theme.json"
             },
-
             {
-            "label": "Base16 Seti UI",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Seti UI-color-theme.json"
+                "label": "Base16 Seti UI",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Seti UI-color-theme.json"
             },
-
             {
-            "label": "Base16 Shapeshifter",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Shapeshifter-color-theme.json"
+                "label": "Base16 Shapeshifter",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Shapeshifter-color-theme.json"
             },
-
             {
-            "label": "Base16 Solar Flare",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Solar Flare-color-theme.json"
+                "label": "Base16 Solar Flare",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Solar Flare-color-theme.json"
             },
-
             {
-            "label": "Base16 Solarized Dark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Solarized Dark-color-theme.json"
+                "label": "Base16 Solarized Dark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Solarized Dark-color-theme.json"
             },
-
             {
-            "label": "Base16 Solarized Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Solarized Light-color-theme.json"
+                "label": "Base16 Solarized Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Solarized Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Spacemacs",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Spacemacs-color-theme.json"
+                "label": "Base16 Spacemacs",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Spacemacs-color-theme.json"
             },
-
             {
-            "label": "Base16 Summerfruit Dark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Summerfruit Dark-color-theme.json"
+                "label": "Base16 Summerfruit Dark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Summerfruit Dark-color-theme.json"
             },
-
             {
-            "label": "Base16 Summerfruit Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Summerfruit Light-color-theme.json"
+                "label": "Base16 Summerfruit Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Summerfruit Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Tomorrow Night",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Tomorrow Night-color-theme.json"
+                "label": "Base16 Tomorrow Night",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Tomorrow Night-color-theme.json"
             },
-
             {
-            "label": "Base16 Tomorrow",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Tomorrow-color-theme.json"
+                "label": "Base16 Tomorrow",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Tomorrow-color-theme.json"
             },
-
             {
-            "label": "Base16 Twilight",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Twilight-color-theme.json"
+                "label": "Base16 Twilight",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Twilight-color-theme.json"
             },
-
             {
-            "label": "Base16 Unikitty Dark",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Unikitty Dark-color-theme.json"
+                "label": "Base16 Unikitty Dark",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Unikitty Dark-color-theme.json"
             },
-
             {
-            "label": "Base16 Unikitty Light",
-            "uiTheme": "vs",
-            "path": "themes/Base16 Unikitty Light-color-theme.json"
+                "label": "Base16 Unikitty Light",
+                "uiTheme": "vs",
+                "path": "themes/Base16 Unikitty Light-color-theme.json"
             },
-
             {
-            "label": "Base16 Woodland",
-            "uiTheme": "vs-dark",
-            "path": "themes/Base16 Woodland-color-theme.json"
+                "label": "Base16 Woodland",
+                "uiTheme": "vs-dark",
+                "path": "themes/Base16 Woodland-color-theme.json"
             }
         ]
     }
