@@ -346,5 +346,10 @@
                 "path": "themes/Base16 Woodland-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "generator-code": "^1.1.22",
+        "shelljs": "^0.8.1",
+        "xml2js": "^0.4.19"
     }
 }
