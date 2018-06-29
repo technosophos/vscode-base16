@@ -6,7 +6,7 @@ Because what you really need is 60+ hacker-oriented color schemes from which to 
 
 ![Sample Color Schemes](composite.png)
 
-Preview all of the themes at the [base16 theme site](http://chriskempson.github.io/base16/)
+Preview all of the themes at the [base16 theme site](http://chriskempson.com/projects/base16/)
 
 This extension contains 60+ of the base16 themes. It provides VS Code wrappers for the [TextMate version](https://github.com/chriskempson/base16-textmate) of the Base16 themes.
 
